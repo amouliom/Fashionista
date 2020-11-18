@@ -1,0 +1,17 @@
+/* * {
+    border: 1px solid gray;
+} */
+
+::placeholder {
+    color: rgb(209, 208, 208);
+}
+
+/* 
+input[type="search"] {
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+}
+
+input[type="search"]:focus {
+    width: 100%;
+} */
